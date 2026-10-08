@@ -74,20 +74,18 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 18 mins       ██████████████░░░░░░░░░░░   55.27 % 
-Python                   1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   40.71 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   1 hr 8 mins         █████████████████████░░░░   83.04 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-인공지능                     4 hrs 10 mins       █████████████████████████   100.00 % 
+인공지능                     1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,5 +111,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/the-soro/the-soro/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 18:34:43 UTC
+ Last Updated on 08/10/2026 18:33:42 UTC
 <!--END_SECTION:waka-->
