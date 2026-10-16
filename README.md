@@ -39,7 +39,7 @@ New portfolio website in progress
 
 > 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 177 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,16 +74,17 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     11 mins             █████████████████████████   100.00 % 
+HTML                     14 mins             ███████████████████████░░   91.30 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          11 mins             █████████████████████████   100.00 % 
+Unknown Project          15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,5 +110,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/the-soro/the-soro/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 16:28:48 UTC
+ Last Updated on 16/10/2026 16:14:05 UTC
 <!--END_SECTION:waka-->
