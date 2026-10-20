@@ -29,7 +29,7 @@ New portfolio website in progress
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
 
@@ -74,17 +74,19 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     14 mins             ███████████████████████░░   91.30 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+HTML                     14 mins             █████████████████░░░░░░░░   69.84 % 
+Python                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          15 mins             █████████████████████████   100.00 % 
+Unknown Project          15 mins             ███████████████████░░░░░░   76.50 % 
+Quantum                  4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,5 +112,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/the-soro/the-soro/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 18:27:15 UTC
+ Last Updated on 20/10/2026 16:29:01 UTC
 <!--END_SECTION:waka-->
