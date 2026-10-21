@@ -74,19 +74,19 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     14 mins             █████████████████░░░░░░░░   69.84 % 
-Python                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Python                   4 mins              █████████████░░░░░░░░░░░░   51.92 % 
+HTML                     3 mins              ████████░░░░░░░░░░░░░░░░░   33.38 % 
+Markdown                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          15 mins             ███████████████████░░░░░░   76.50 % 
-Quantum                  4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Quantum                  4 mins              █████████████░░░░░░░░░░░░   51.92 % 
+Unknown Project          4 mins              ████████████░░░░░░░░░░░░░   48.08 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,5 +112,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/the-soro/the-soro/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 16:29:01 UTC
+ Last Updated on 21/10/2026 16:46:07 UTC
 <!--END_SECTION:waka-->
